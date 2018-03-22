@@ -1,0 +1,51 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.button-custom-lg {
+	Width:250px;
+	border-radius:10px;
+	font-size:20px;
+	font-family:Roboto;
+	font-weight: 600;
+	margin-top:-300px;
+}
+
+
+
+.Email {
+font-size:20px; 
+	font-family:Roboto;
+	width:200px;
+	
+}
+
+.box {
+	margin-top:-125px;
+
+}
+.checkbox{
+align-content: center;
+}
+ 
+.terms{ 
+font-size:15px; 
+	font-family:Roboto;
+	
+}
+
+.button-custom-sm {
+	font-family:Roboto;
+	font-weight: 600;
+	background-color:#FF7F43;
+	color:#FFFFFF;
+}
+
+.btn-sm {
+	font-family:Roboto;
+	font-weight: 600;
+	background-color:#FF7F43;
+	color:#FFFFFF;
+	margin:10px;
+		font-size:15px; 
+	
+}

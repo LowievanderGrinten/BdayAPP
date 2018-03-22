@@ -1,0 +1,106 @@
+/* What it does: Default styling of body
+TODO: replace in other files Roboto Bold by Roboto font-weight: 600;
+*/
+body{
+	font-family: Roboto;
+	margin: 0;
+	padding-top: 70px;
+	width: 100%;
+	background-color: #F4F4F4;
+}
+
+/* What it does: Style the header of a popup to a nice orange big text */
+.navbar-header {
+	color: #FF660B;
+	font-size: 32px;
+	padding: 3px;
+	line-height: 50px;
+}
+
+/* What it does: Groups the full width buttons and apply a vertical margin to them */
+.button-group {
+	margin-top: 60px;
+}
+
+/* What it does: Make full-width orange buttons */
+button.button-full {
+	display: flex;
+	width: 100%;
+	border: 1px solid #FF7F43;
+	border-left: 0;
+	border-right: 0;
+	border-radius: 0;
+	
+	background-color: white;
+	margin: 5px 0;
+	padding: 3px;
+	
+	font-size: 24px;
+	color: #FF660B;
+	
+	text-align: left;
+	align-items: center;
+}
+
+/* What it does: pull the arrow thingies to the right and don't display them in bold.*/
+.button-full span.glyphicon-chevron-right{
+	font-weight: 400;
+	margin-left: auto;
+	margin-right: 10px;
+}
+
+/* What it does: position the content of the buttons */
+.button-group-icons-large button.button-full{
+	padding-left: 20%;
+}
+
+/* What it does: position the content of the buttons */
+.button-full-icons-large button.button-full{
+	padding-left: 10px;
+}
+
+/* What it does: keep the nice on-click color on focus */
+.button-full:focus{
+	color: #333;
+    background-color: #d4d4d4;
+    border-color: #8c8c8c;
+}
+
+/* What it does: make all img within the buttons the same height */
+.button-full img{
+	height: 30px;
+}
+
+/* What it does: make a spacer so that all the images take the same amount of space, center image*/
+.button-full-logo{
+	width: 55px;
+	text-align: center;
+	margin-right: 10px;
+	line-height: 0px;
+}
+
+/* What it does: force the footer on the bottom */
+.footer{
+	position: absolute;
+	bottom: 20px;
+	left: 20px;
+	right: 20px;
+}
+
+
+/* What it does: override the default button-custom-lg because the font isn't called "Roboto Bold"; */
+.button-custom-lg {
+	font-family: Roboto;
+	font-weight: 600;
+}
+
+/* What it does: aligns the footer buttons */
+.popup-buttons {
+	display: flex;
+}
+
+/* What it does: give the footer buttons some space */
+.popup-buttons .button-custom-lg{
+	margin:0 10px;
+}
+

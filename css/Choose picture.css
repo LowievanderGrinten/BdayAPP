@@ -1,0 +1,50 @@
+@charset "utf-8";
+	
+.bigcake{
+
+	width: 476px;
+		height: 260px;
+		border-radius: 20px;
+		margin: 5px;
+}
+.pinkcake{
+	width: 400px;
+	height: 260px;
+	border-radius: 20px;
+	margin: 5px;
+}
+.smallcake{
+	width: 428px;
+		height: 260px;
+	border-radius: 20px;
+	margin: 5px;
+}
+
+.login{  
+margin-top: 6px;
+  font-size-adjust: auto;
+  width: 100%;
+  height: 51px;
+  color: #f79554;
+  font-family: 'Roboto';
+  font-size: 4vw;
+  font-weight: 700;
+  text-transform: uppercase;
+	
+}
+
+.button-custom-sm {
+	font-family:'Roboto';
+	background-color:#FF7F43;
+	color:#FFFFFF;
+	margin: 15px;
+}
+
+.active{
+	interval: false;
+}
+
+.carousel-inner{
+	
+	width: 100%;
+}

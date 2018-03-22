@@ -1,0 +1,22 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+.button-custom-lg {
+	Width:250px;
+	border-radius:10px;
+	font-size:20px;
+	font-family:Roboto; 
+	font-weight: 600;
+	Margin-top:-150px;
+}
+
+.button-custom-sm {
+	font-family:Roboto;
+	font-weight: 600;
+	background-color:#FF7F43;
+	color:#FFFFFF;
+	float:center;
+	margin-top:40px;
+	margin-right:auto !important;
+}

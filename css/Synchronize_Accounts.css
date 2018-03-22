@@ -1,0 +1,52 @@
+@charset "UTF-8";
+/* CSS Document */
+.button-custom-lg {
+	Width:250px;
+	border-radius:10px;
+	font-size:20px;
+	font-family:roboto;    
+	Margin-top:-50px;
+}
+
+.img-responsive-facebook {
+	margin-right:10px;
+	margin-top:70px;
+	
+}
+
+.img-responsive-google {
+	margin-left:10px;
+	margin-top:70px;
+}
+
+.button-custom-sm-skip {
+		border-radius: 10px;
+	border:1px solid #FF7F43;
+	width:100px;
+
+	font-family:Roboto;
+	font-weight: 600;
+	color:#FFFFFF;
+	Font-size:20px;
+	margin-right:20px;
+	background-color:#FF7F43;
+	margin-right:30px;
+	margin-top:80px;
+	
+
+}
+
+.button-custom-sm-done {
+		border-radius: 10px;
+	border:1px solid #FF7F43;
+	width:100px;
+
+	font-family:"Roboto";
+	font-weight: 600;
+	color:#FFFFFF;
+	Font-size:20px;
+	margin-right:20px;
+	background-color:#FF7F43;
+	margin-top:80px;
+	margin-left:30px;
+}

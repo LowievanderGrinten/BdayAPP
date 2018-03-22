@@ -1,0 +1,57 @@
+@charset "utf-8";
+/* CSS Document */
+h1 {
+	color: #FF7F43;
+
+	
+}
+
+.deleteaccount{
+	vertical-align: top;
+	font-family: roboto;
+	padding-bottom: 50px;
+	
+}
+
+.Deletebox{
+	width: 200px;
+	height: 146px;
+	border-style: solid;
+	border-color:#FF7F43;
+	padding-bottom: 120px;
+	font-family: roboto;
+	font-size: 20px;
+	
+	
+}
+
+.buttons{
+	margin-top: 150px;
+}
+
+
+.button-custom-sm-2 {
+		border-radius: 10px;
+	border:1px solid #FFFFFF;
+	width:100px;
+}
+
+.btn-cancel {
+	font-family:roboto;
+	font-weight: 600;
+	background-color:#00D41E;
+	color:#FFFFFF;
+	margin:10px;
+		font-size:15px; 
+	
+}
+
+.btn-delete {
+	font-family:Roboto;
+	font-weight: 600;
+	background-color:#C70B0F;
+	color:#FFFFFF;
+	margin:10px;
+		font-size:15px; 
+	
+}

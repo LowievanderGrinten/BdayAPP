@@ -1,0 +1,22 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.button-custom-sm {
+	font-family:roboto;
+	font-weight: 600;
+	background-color:#FF7F43;
+	color:#FFFFFF;
+	
+}
+
+h1 {
+	color:#FF7F43;
+	font-size:60px;
+	margin-top:-20px;
+	font-family:roboto;
+}
+
+.synchronize-birthday {
+	font-family:roboto;
+	font-size:13px;
+}
